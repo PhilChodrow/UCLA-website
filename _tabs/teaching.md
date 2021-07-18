@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 icon: fas fa-tags
-order: 2
+order: 3
 toc: true
 ---
 

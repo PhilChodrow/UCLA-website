@@ -2,18 +2,22 @@
 
 -
   type: github
-  icon: 'fab fa-github-alt'
+  icon: 'fab fa-github-alt fa-2x'
 -
   type: twitter
-  icon: 'fab fa-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
+  icon: 'fab fa-twitter fa-2x'
+- 
+  type: scholar
+  icon: 'ai ai-google-scholar ai-2x'
   noblank: true
+  url: https://scholar.google.com/citations?user=dgWoch0AAAAJ&hl=en
+- 
+  type: CV
+  icon: 'ai ai-cv ai-2x'
+  noblank: true
+  url: https://philchodrow.github.io/CV/cv.pdf
+
+
 
 # Uncomment and complete the url below to enable more contact options
 # -

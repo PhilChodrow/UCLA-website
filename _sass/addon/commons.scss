@@ -63,10 +63,12 @@ h1 {
 
 h2 {
   @extend %heading;
-  @extend %section;
-  @extend %anchor;
+  // @extend %section;
+  // @extend %anchor;
 
   font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 h3 {
@@ -701,7 +703,7 @@ $sidebar-display: "sidebar-display";
     }
     &.active {
       .nav-link {
-        color: #fcfcfc;
+        color: #c42412;
       }
     }
   }
@@ -1710,8 +1712,10 @@ dt {
   width: 50px;
   text-align: left;
   font-weight: normal;
-  margin-bottom: 0.5em;
+  margin-bottom: 0em;
   padding-left: 20px;
+  margin-right: 0;
+  padding-right: 0;
   // color: green;
 }
 dt::after {
@@ -1719,7 +1723,7 @@ dt::after {
 }
 dd {
   margin: 0 0 0 0;
-  padding: 0  0  0 30px;
+  padding: 0  0  0 40px;
   margin-bottom: 0.5em;
 }
 

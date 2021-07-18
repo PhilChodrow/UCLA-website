@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
 title: Phil Chodrow                       # the main title
-
+pronouns: (he/him)
 tagline: Applied math and data science @UCLA   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
@@ -33,10 +33,13 @@ github:
 twitter:
   username: philchodrow            # change to your twitter username
 
+CV:
+  url: https://philchodrow.github.io/CV/cv.pdf
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Phil Chodrow
+  name:  Phil Chodrow
   email:          # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -105,10 +108,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-  publications:
-    authors: true
-    sort_by: date
-
 
 defaults:
   -

@@ -3,9 +3,11 @@ layout: page
 # Publications
 ---
 
+{{ content }}
+
 <div id="publications" class="pl-xl-2">
 
-{% assign sorted = site.publications | sort: 'date' | reverse %}
+{% assign sorted = site.data.papers | sort: 'date' | reverse %}
 
 {% assign counter = 0 %}
 
@@ -15,7 +17,7 @@ layout: page
     {% assign num_pubs = num_pubs | plus: 1 %}
 {% endfor %}
 
-{% for pub in sorted %}
+{% for pub in sorted %}  
 
     {% capture this_year %}{{ pub.date | date: "%Y" }}{% endcapture %}
     {% capture pre_year %}{{ pub.previous.date | date: "%Y" }}{% endcapture %}
@@ -34,12 +36,32 @@ layout: page
         <span>
         {% capture this_day %}{{ pub.date | date: "%d" }}{% endcapture %}
         {% capture this_month %}{{ pub.date | date: "%b" }}{% endcapture %}
-        <!-- <span class="date day">{{ this_day }}</span>
-        <span class="date month small text-muted">{{ this_month }}</span> -->
-        <a href="{{ pub.external_url }}">{{ pub.title}}</a>
+        <a href="{{ pub.external_url }}">{{pub.title}}</a>
         <br>
-        {{pub.authors}}
-        <br> 
+        {%- for author in pub.authors -%}
+            {%- if forloop.last -%}
+                {%- if forloop.first -%}
+                {%- else -%}
+                &nbsp;and&nbsp;
+                {%- endif -%}
+            {%- else -%}
+                {%- if forloop.first -%}
+                {%- else -%}
+                    ,&nbsp;
+                {%- endif -%}
+            {%- endif -%}
+
+            {%- if author.url -%}
+            <a href= {{author.url}}>{{author.name}}</a>
+            {%- else -%}
+                {%- if author.name == "Phil Chodrow" -%}
+                <b>PSC</b>
+                {%- else -%}
+                    {{ author.name }} 
+                {%- endif -%}
+            {%- endif -%}
+        {%- endfor -%}
+        <br>
         <i>{{pub.journal}}</i>
         ({{this_year}})
         </span>

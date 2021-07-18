@@ -1,10 +1,97 @@
-
 - short_title: emergence of hierarchy
   title: Emergence of hierarchy in networked endorsement dynamics
+  external_url: https://www.pnas.org/content/118/16/e2015188118
   date: 2021-04-07
+  journal: Proceedings of the National Academy of Sciences
   authors: 
-    - Mari Kawakatsu:
-    - Phil Chodrow:
-      url: philchodrow.com
-    - Nicole Eikmeier:
-    - Dan Larremore:
+    - name: Mari Kawakatsu
+    - name: Phil Chodrow
+      # url: philchodrow.com
+    - name: Nicole Eikmeier
+      # url: https://eikmeier.sites.grinnell.edu/
+    - name: Dan Larremore
+
+- short_title: configuration_hypergraphs
+  title:  "Configuration models of random hypergraphs"
+  external_url: https://academic.oup.com/comnet/article-abstract/8/3/cnaa018/5879929
+  journal: Journal of Complex Networks
+  date:   2020-07-16
+  authors:
+    - name: Phil Chodrow
+
+- short_title: hypergraph_modularity
+  title:  "Generative hypergraph clustering: from blockmodels to modularity"
+  journal: Science Advances
+  date:   2021-07-07
+  external_url: https://advances.sciencemag.org/content/7/28/eabh1303
+  authors: 
+    - name: Phil Chodrow
+    - name: Nate Veldt
+    - name: Austin Benson
+
+- short_title: annotated_hypergraphs
+  title:  "Annotated hypergraphs: models and applications"
+  journal: Applied Network Science
+  external_url: https://link.springer.com/article/10.1007/s41109-020-0252-y
+  date:   2020-04-16
+  authors: 
+    - name: Phil Chodrow
+    - name: Andrew Mellor
+
+- short_title: demand_and_congestion
+  title:  "Demand and congestion in multiplex transportation networks"
+  journal: PLoS One
+  date:   2016-04-16
+  external_url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161738
+  authors: 
+    - name: Phil Chodrow
+    - name: Zeyad al-Awwad
+    - name: Shan Jiang
+    - name: Marta González
+
+- short_title: local_symmetric
+  title:  "Local symmetry and global structure in adaptive voter models"
+  journal: SIAM Journal on Applied Mathematics
+  external_url: https://epubs.siam.org/doi/pdf/10.1137/18M1232346?casa_token=st1ib1C3dRUAAAAA:u69ZSyBJVU-keaUQ6eO6wVKcM42DNeUReNMDWhVVT5pUDozAHYx8NnGz7iKZ4gX1gtMxGYMCucA
+  date:   2020-05-16
+  authors: 
+    - name: Phil Chodrow
+    - name: Peter Mucha
+
+- short_title: multigraph_moments
+  title:  "Moments of uniformly random multigraphs with fixed degree sequences"
+  journal: SIAM Journal on Mathematics of Data Science
+  date:   2020-07-16
+  external_url: https://epubs.siam.org/doi/abs/10.1137/19M1288772
+  authors: 
+    - name: Phil Chodrow
+
+- short_title: structure_and_information
+  title:  "Structure and information in spatial segregation"
+  journal: Proceedings of the National Academy of Sciences
+  date:   2017-04-07
+  external_url: https://www.pnas.org/content/pnas/114/44/11591.full.pdf
+  authors: 
+    - name: Phil Chodrow
+
+- short_title: maps_on_cones
+  title:  "Upper and lower bounds for the iterates of order-preserving homogeneous maps on cones"
+  journal: Linear Algebra and its Applications
+  date:   2013-07-16
+  external_url: https://www.sciencedirect.com/science/article/pii/S0024379512007379
+  authors: 
+    - name: Phil Chodrow
+    - name: Cole Franks
+    - name: Brian Lins
+
+- short_title: NO2
+  title: Space-based observational constraints on NO2 air pollution inequality from diesel traffic in major U.S. cities
+  journal: Submitted
+  date: 2021-07-17
+  authors: 
+    - name: Mary Angelique Demetillo
+    - name: Colin Harkins
+    - name: Brian McDonald
+    - name: Phil Chodrow
+    - name: Kang Sun
+    - name: Sally Pusede
