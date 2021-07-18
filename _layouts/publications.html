@@ -1,0 +1,60 @@
+---
+layout: page
+# Publications
+---
+
+<div id="publications" class="pl-xl-2">
+
+{% assign sorted = site.publications | sort: 'date' | reverse %}
+
+{% assign counter = 0 %}
+
+{% assign num_pubs = 0 %}
+
+{% for pub in sorted %}
+    {% assign num_pubs = num_pubs | plus: 1 %}
+{% endfor %}
+
+{% for pub in sorted %}
+
+    {% capture this_year %}{{ pub.date | date: "%Y" }}{% endcapture %}
+    {% capture pre_year %}{{ pub.previous.date | date: "%Y" }}{% endcapture %}
+    {% if forloop.first %}
+    {% assign last_day = "" %}
+    {% assign last_month = "" %}
+    <!-- <span class="lead">{{this_year}}</span> -->
+    <!-- <h2 > {{this_year}} </h2> -->
+    <dl class="expanded">
+    {% endif %}
+    
+    {% assign current_pub = num_pubs | minus: counter %}
+
+    <dt>[{{ current_pub }}]</dt>
+    <dd>
+        <span>
+        {% capture this_day %}{{ pub.date | date: "%d" }}{% endcapture %}
+        {% capture this_month %}{{ pub.date | date: "%b" }}{% endcapture %}
+        <!-- <span class="date day">{{ this_day }}</span>
+        <span class="date month small text-muted">{{ this_month }}</span> -->
+        <a href="{{ pub.external_url }}">{{ pub.title}}</a>
+        <br>
+        {{pub.authors}}
+        <br> 
+        <i>{{pub.journal}}</i>
+        ({{this_year}})
+        </span>
+        <!-- <br> -->
+    </dd>
+    {% if forloop.last %}
+    </dl>
+    {% elsif this_year != pre_year %}
+    </ul>
+    <!-- <span class="lead">{{pre_year}}</span> -->
+    <!-- <h2 > {{pre_year}} </h2> -->
+    <dl class="expanded">
+    {% assign last_day = "" %}
+    {% assign last_month = "" %}
+    {% endif %}
+{% assign counter = counter | plus: 1 %}
+{% endfor %}
+</div>
