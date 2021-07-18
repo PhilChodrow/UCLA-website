@@ -1,12 +1,12 @@
 ---
 layout: page
 title: For Students
-icon: fas fa-tags
+icon: fas fa-university
 order: 4
 toc: true
 ---
 
-Welcome! Here's a few FAQs that I hope might help you. 
+Welcome! Here's a few FAQs. 
 
 ## Basics
 

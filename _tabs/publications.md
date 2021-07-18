@@ -1,7 +1,7 @@
 ---
 layout: publications
 title: Research 
-icon: fas fa-archive
+icon: fas fa-search
 order: 3
 ---
 

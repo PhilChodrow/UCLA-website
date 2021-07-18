@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-icon: fas fa-tags
+icon: fas fa-pencil-alt
 order: 3
 toc: true
 ---

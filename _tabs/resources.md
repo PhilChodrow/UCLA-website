@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-icon: fas fa-tags
+icon: fas fa-hands-helping
 order: 4
 toc: true
 ---
@@ -29,6 +29,7 @@ This page collects a variety of references, data repositories, links, and books 
 
 - I am a Partner at [QSIDE](https://qsideinstitute.org/), the Institute for the Quantitative Study of Inclusion, Diversity, and Equity. QSIDE has a number of ongoing projects and welcomes collaborators. 
 - The 2021 [MSRI Workshop on Mathematics and Racial Justice](https://www.msri.org/workshops/1012) collected a [list of resources](https://docs.google.com/document/d/1-40eCiJdlOIxDWnALv-kqO5-0c5NH1M857-_kTj-GeE/edit?usp=sharing) on mathematics and racial justice, including books, journal articles, organizations, and data sets.
+- The [Just Mathematics Collective](https://www.justmathematicscollective.net/) is an international collective of mathematicians whose goal is to "to shift the global mathematics community towards justice, via genuine anti-racism, anti-militarism, and solidarity with the Global South."
 - [Weapons of Math Destruction](https://bookshop.org/books/weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy/9780553418835) by Cathy O'Neil
 - [Algorithms of Oppression: How Search Engines Reinforce Racism](https://bookshop.org/books/algorithms-of-oppression-how-search-engines-reinforce-racism/9781479837243) by Safiya Umoja Noble
 - [Automating Inequality](https://bookshop.org/books/automating-inequality-how-high-tech-tools-profile-police-and-punish-the-poor/9781250215789) by Virginia Eubanks
