@@ -123,7 +123,11 @@ layout: page
             <span>
             {% capture this_day %}{{ pub.date | date: "%d" }}{% endcapture %}
             {% capture this_month %}{{ pub.date | date: "%b" }}{% endcapture %}
-            <a href="{{ pub.external_url }}">{{pub.title}}</a>
+            {% if pub.external_url %}
+                <a href="{{ pub.external_url }}">{{pub.title}}</a>
+            {% else %}
+                {{pub.title}}
+            {% endif %}
             <br>
             {%- for author in pub.authors -%}
                 {%- if forloop.last -%}
