@@ -3,6 +3,7 @@
   external_url: https://www.pnas.org/content/118/16/e2015188118
   date: 2021-04-07
   journal: Proceedings of the National Academy of Sciences
+  published: true
   authors: 
     - name: Mari Kawakatsu
     - name: Phil Chodrow
@@ -11,11 +12,14 @@
       # url: https://eikmeier.sites.grinnell.edu/
     - name: Dan Larremore
 
+
+
 - short_title: configuration_hypergraphs
   title:  "Configuration models of random hypergraphs"
   external_url: https://academic.oup.com/comnet/article-abstract/8/3/cnaa018/5879929
   journal: Journal of Complex Networks
   date:   2020-07-16
+  published: true
   authors:
     - name: Phil Chodrow
 
@@ -24,6 +28,7 @@
   journal: Science Advances
   date:   2021-07-07
   external_url: https://advances.sciencemag.org/content/7/28/eabh1303
+  published: true
   authors: 
     - name: Phil Chodrow
     - name: Nate Veldt
@@ -34,6 +39,7 @@
   journal: Applied Network Science
   external_url: https://link.springer.com/article/10.1007/s41109-020-0252-y
   date:   2020-04-16
+  published: true
   authors: 
     - name: Phil Chodrow
     - name: Andrew Mellor
@@ -43,6 +49,7 @@
   journal: PLoS One
   date:   2016-04-16
   external_url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161738
+  published: true
   authors: 
     - name: Phil Chodrow
     - name: Zeyad al-Awwad
@@ -53,6 +60,7 @@
   title:  "Local symmetry and global structure in adaptive voter models"
   journal: SIAM Journal on Applied Mathematics
   external_url: https://epubs.siam.org/doi/pdf/10.1137/18M1232346?casa_token=st1ib1C3dRUAAAAA:u69ZSyBJVU-keaUQ6eO6wVKcM42DNeUReNMDWhVVT5pUDozAHYx8NnGz7iKZ4gX1gtMxGYMCucA
+  published: true
   date:   2020-05-16
   authors: 
     - name: Phil Chodrow
@@ -63,6 +71,7 @@
   journal: SIAM Journal on Mathematics of Data Science
   date:   2020-07-16
   external_url: https://epubs.siam.org/doi/abs/10.1137/19M1288772
+  published: true
   authors: 
     - name: Phil Chodrow
 
@@ -71,6 +80,7 @@
   journal: Proceedings of the National Academy of Sciences
   date:   2017-04-07
   external_url: https://www.pnas.org/content/pnas/114/44/11591.full.pdf
+  published: true
   authors: 
     - name: Phil Chodrow
 
@@ -79,6 +89,7 @@
   journal: Linear Algebra and its Applications
   date:   2013-07-16
   external_url: https://www.sciencedirect.com/science/article/pii/S0024379512007379
+  published: true
   authors: 
     - name: Phil Chodrow
     - name: Cole Franks

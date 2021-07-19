@@ -45,7 +45,7 @@ Generally speaking, to perform perform theoretical research with me, you should 
 ## Advice and Recommendation Letters 
 
 **Can I talk to you about classes/grad school/jobs/internships?** <br>
-Definitely! Shoot me an email and we'll set up a meeting. 
+Definitely! Shoot me an email and we'll set up a meeting. Just to set expectations, I know a lot more about academic careers than I do about jobs and internships. 
 
 **Will you write me a letter of recommendation for grad school/jobs/internships?** <br>
 If you have completed a course with me or are currently enrolled, you are welcome to request a letter from me. I will only refuse if you are requesting support for an application for jobs or internships involving surveillance, policing, or military applications. If I feel that I am not able to write you a strong letter, I will tell you -- but if you still want a letter from me, I will still write it.
