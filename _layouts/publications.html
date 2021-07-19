@@ -80,10 +80,10 @@ layout: page
     {% if forloop.last %}
     </dl>
     {% elsif this_year != pre_year %}
-    </ul>
+    <!-- </ul> -->
     <!-- <span class="lead">{{pre_year}}</span> -->
     <!-- <h2 > {{pre_year}} </h2> -->
-    <dl class="expanded">
+    <!-- <dl class="expanded"> -->
     {% assign last_day = "" %}
     {% assign last_month = "" %}
     {% endif %}
@@ -157,10 +157,8 @@ layout: page
         {% if forloop.last %}
         </dl>
         {% elsif this_year != pre_year %}
-        </ul>
         <!-- <span class="lead">{{pre_year}}</span> -->
         <!-- <h2 > {{pre_year}} </h2> -->
-        <dl class="expanded">
         {% assign last_day = "" %}
         {% assign last_month = "" %}
         {% endif %}
