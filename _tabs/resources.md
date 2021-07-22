@@ -36,6 +36,6 @@ This page collects a variety of references, data repositories, links, and books 
 
 ## Social Justice, Broadly
 
-- [Entitled: How Male Privilege Hurts Women](https://bookshop.org/books/entitled-how-male-privilege-hurts-women/9781984826558) by Kate Manne
-- [How to be an Antiracist](https://bookshop.org/books/how-to-be-an-antiracist/9780525509288) by Ibram X. Kendi
-- [https://bookshop.org/books/an-indigenous-peoples-history-of-the-united-states/9780807057834](https://bookshop.org/books/an-indigenous-peoples-history-of-the-united-states/9780807057834) by Roxanne Dunbar-Ortiz
+- [Entitled: How Male Privilege Hurts Women](https://bookshop.org/books/entitled-how-male-privilege-hurts-women/9781984826558) by Kate Manne. 
+- [How to be an Antiracist](https://bookshop.org/books/how-to-be-an-antiracist/9780525509288) by Ibram X. Kendi. 
+- [An Indigenous People's History of the United States](https://bookshop.org/books/an-indigenous-peoples-history-of-the-united-states/9780807057834) by Roxanne Dunbar-Ortiz. 

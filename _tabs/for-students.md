@@ -11,7 +11,7 @@ Welcome! Here's a few FAQs.
 ## Basics
 
 **Uh, who are you?**<br>
-I'm Phil Chodrow, a visiting assistant professor in the Math Department at UCLA. I grew up in Virginia, did undergrad at Swarthmore College in Pennsylvania, and did my PhD (after a few year's break) at MIT. Then I came here! 
+I'm Phil Chodrow, a visiting assistant professor in the Math Department at UCLA. I grew up in Virginia, did undergrad at Swarthmore College in Pennsylvania, and did my PhD (after a few years' break) at MIT. Then I came here! 
 
 I love applied math, data science, Star Trek, penguins, tea, traditional martial arts, and effective pedagogy. 
 
