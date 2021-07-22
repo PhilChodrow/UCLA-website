@@ -13,16 +13,11 @@ I am a passionate educator, and [teach subjects](/teaching) ranging from applied
 
 I did my PhD at MIT's [Operations Research Center](https://www.mit.edu/~orc/) under the mentorship of [Marta González](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez) and [Patrick Jaillet](http://web.mit.edu/jaillet/www/). My research at MIT was supported by the NSF Graduate Research Fellowship. 
 
-## CV
-
-Read it [here](https://philchodrow.github.io/CV/cv.pdf).
-
-
 ## News
 
-- **July 15th, 2021**. Invited talk on feedback loops and ranks in networks at UCLA's REU group on "Kaczmarz Methods for Large-Scale Data Analysis," led by [Jamie Haddock](https://www.math.ucla.edu/~jhaddock/). 
+- **July 15th, 2021**: Invited talk on feedback loops and ranks in networks at UCLA's REU group on "Kaczmarz Methods for Large-Scale Data Analysis," led by [Jamie Haddock](https://www.math.ucla.edu/~jhaddock/). 
 - **July 7th, 2021**: "Generative hypergraph clustering: from blockmodels to modularity" with [Nate Veldt](https://people.cam.cornell.edu/lnv22/) and [Austin Benson](https://www.cs.cornell.edu/~arb/) is [now published](https://advances.sciencemag.org/content/7/28/eabh1303) in *Science Advances*.  
-- **June/July, 2021**. I am giving three talks at the Networks 2021 conference: 
+- **June/July, 2021**: I am giving three talks at the Networks 2021 conference: 
   - Detectability of Communities in Heterogeneous Hypergraphs (invited) in the satellite on Higher-Order Models in Network Science (HONS). [Slides](https://philchodrow.github.io/talks/HONS21/short#1). 
   - Generative Hypergraph Clustering: From Blockmodels to Modularity in the satellite on Statistical Inference in Network Models (SINM). [Paper](https://arxiv.org/pdf/2101.09611.pdf), [slides](https://philchodrow.github.io/talks/hmod/short#1). 
   - Moments of Uniformly Random Multigraphs With Fixed Degree Sequences [Paper](https://epubs.siam.org/doi/pdf/10.1137/19M1288772), [slides](https://philchodrow.github.io/talks/multigraph_moments/SIAMNS20). 
