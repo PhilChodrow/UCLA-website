@@ -1731,4 +1731,79 @@ dd {
   text-align: right;
 }
 
+table { 
+  margin-left: 1rem;
+  table-layout: auto;
+  border-collapse: separate;
+  border-spacing: 0 0.5rem;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
 
+// td {
+//   vertical-align: text-top;
+//   padding-left: 0;
+//   padding-right: 0;
+//   margin: 0;
+//   padding-top: 0;
+//   padding-bottom: 0;
+//   padding: 0;
+// }
+
+td:first-child{
+  width: 2%;
+}
+
+
+// tr {
+//   padding-bottom: 1em;
+// }
+
+
+.frame {
+    // height: 25px;      /* Equals maximum image height */
+    // width: 160px;
+    border: 1px solid red;
+    white-space: nowrap; /* This is required unless you put the helper span closely near the img */
+    // text-align: center;
+    margin: 0 0;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+img {
+    // background: #3A6F9A;
+    vertical-align: middle;
+    // max-height: 25px;
+    // max-width: 160px;
+    margin: 0;
+    padding: 0;
+}
+
+.table{
+  display: table;
+  margin:10px;    
+}
+
+.cell{
+  width:200px;
+  height:200px;
+  background-color:red;
+  display:table-cell;
+  vertical-align: middle;
+
+}
+
+img {
+ display:table-cell;
+}
+
+.compress {
+  padding: 0;
+}
