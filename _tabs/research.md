@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: toc
 title: Research 
 icon: fas fa-search
 order: 3
