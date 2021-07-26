@@ -79,7 +79,7 @@ Addressing these questions often requires tools from probability, optimization, 
   </tr>
 </table>
 
-## Biosocial Systems
+## Dynamics of Biosocial Systems
 
 Human and animal societies are structured by persistent hierarchies, inequalities, and divisions. Dynamical models can help us understand when these phenomena emerge and how they persist. 
 
