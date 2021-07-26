@@ -3,13 +3,14 @@ layout: toc
 title: For Students
 icon: fas fa-university
 order: 4
-toc: true
 ---
+
+# FAQs for Students
 
 ## Basics
 
 **Who are you?**<br>
-I'm Phil Chodrow, a visiting assistant professor in the Math Department at UCLA. I grew up in Virginia, did undergrad at Swarthmore College in Pennsylvania, and did my PhD (after a few years' break) at MIT. Then I came here! 
+I'm Phil Chodrow, a visiting assistant professor in the Math Department at UCLA. I grew up in Virginia, did undergrad at Swarthmore College in Pennsylvania, and did my PhD (after a few years traveling and working) at MIT. Then I came here to UCLA! 
 
 I love applied math, data science, Star Trek,  penguins, cooking, tea, studio Ghibli movies, traditional martial arts, and effective pedagogy. 
 
