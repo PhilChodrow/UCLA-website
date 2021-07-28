@@ -21,8 +21,8 @@ Please remember to address all your professors respectfully and according to the
 
 ## Classes
 
-**What are you teaching next year?** <br>
-Next year ('21-'22), I am scheduled to teach: 
+**What are you teaching?** <br>
+In academic year '21-'22, I am teaching: 
 
 - [PIC16A](https://philchodrow.github.io/PIC16A//), Fall '21
 - [PIC16B](https://philchodrow.github.io/PIC16B//), Fall '21 and Winter '22
@@ -32,6 +32,10 @@ Next year ('21-'22), I am scheduled to teach:
 Unfortunately, PTEs are not used in PIC courses, so I can't give you an override. My suggestion is to monitor the waitlist during the first two weeks of class, as spots tend to open up. All students on the waitlist in the first two weeks will be automatically enrolled. 
 
 Additionally, please note that, in academic year '21-22, **all** offerings of PIC16A will be taught on the flipped class model that I developed last year. So, if you've heard good things about that class, please know that you'll be able to have that experience with any of the PIC16A instructors. 
+
+**How long will you be at UCLA?** <br>
+I am a visiting scholar, with a contract running through Spring 2023. While there is a possibility that I will stay slightly longer than that, this isn't likely. I do not expect to seek a long-term position at UCLA. 
+
 
 ## Research
 
