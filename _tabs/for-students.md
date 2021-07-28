@@ -72,7 +72,7 @@ I spend a lot of time on my laptop, and I've given some thought to the tools tha
 
 **Is programming language A better than programming language B?** <br>
 Probably not! Most programming languages have certain strengths in which they excel. You don't need "the best" programming language -- you need the one that's right for your task. For example, R and Python have different strengths for data science, and most practicing data scientists know both. Here are my thoughts on the languages I know and use. 
-- **Python**: extremely versatile, pretty good at almost everything. Often slower than compiled languages like C++ or Julia. Widely used in industry, and an excellent first language to learn. Extremely vibrant ecosystem of free software modules. 
+- **Python**: extremely versatile, pretty good at almost everything. Often slower than compiled languages like C++ or just-in-time compiled languages like Julia. Widely used in industry, and an excellent first language to learn. Extremely vibrant ecosystem of free software modules. 
 - **R**: specialized for data analysis and statistics. World-class handling of tabular data via the Tidyverse ecosystem. `ggplot2` is the world's best two-dimensional data visualization system, bar none. The RStudio IDE is fantastic, and better than any other free IDE I've seen for any other language.  
 - **Julia**: specialized for technical computing (science and engineering applications). Similar syntax to Python. Often compared to Matlab in its focus, but open-source and (in my view) easier to understand. Well-written Julia is extremely fast, and can reach speeds comparable to C++. 
 
