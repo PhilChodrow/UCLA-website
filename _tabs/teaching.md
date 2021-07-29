@@ -9,7 +9,7 @@ toc: true
 
 My goal as an educator is to make mathematical reasoning and quantitative problem-solving accessible to **all** students. I consistently gather data about my teaching, and use it to assess the accessibility and relevance of my offerings. I am especially interested in inclusive teaching practices for ameliorating race and gender disparities in applied mathematics and data science. 
 
-My students have said some [nice things](/feedback) about me. 
+My students have said some [nice things](/feedback) about my classes. 
 
 ## Current and Recent Courses
 
