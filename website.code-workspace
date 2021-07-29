@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"_plugins": true,
+			"_site": true,
+			".gitattributes": true,
+			".github": true,
+			".jekyll-cache": true,
+			"404.html": true,
+			"CNAME": true,
+			"Gemfile": true,
+			"Gemfile.lock": true,
+			"tools": true
+		}
+	},
+	
+}
