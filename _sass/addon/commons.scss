@@ -1797,7 +1797,6 @@ img {
   background-color:red;
   display:table-cell;
   vertical-align: middle;
-
 }
 
 img {
@@ -1806,4 +1805,18 @@ img {
 
 .compress {
   padding: 0;
+  padding-left: 10px;
+  display:inline-block;
+  width: 80%;
+}
+
+@media screen and (max-width: 600px) { 
+
+  img .thumbnail { display: none; }  
+  
+}
+
+.thumbnail {
+  display:inline-block;
+  vertical-align:top;
 }

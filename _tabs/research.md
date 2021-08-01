@@ -32,35 +32,35 @@ Addressing these questions often requires tools from probability, optimization, 
 
 <table style="width:100%">
   <tr>
-    <td></td>
     <td>
+      <div class="thumbnail">
+        <img src="/assets/img/thumbnails/detectability.png" width = 70>
+      </div>
         <div class="compress">
             <a href="https://advances.sciencemag.org/content/7/28/eabh1303">Generative hypergraph clustering: from blockmodels to modularity </a> <br>
             <b>PSC</b>, Nate Veldt, and Austin Benson <br>
             <i>Science Advances</i> (2021)
         </div>
     </td>
-    <td>
-        <!-- could eventually put images here -->
-    </td>
   </tr>
   <tr>
-    <td></td>
     <td>
+      <div class="thumbnail">
+        <img src="/assets/img/thumbnails/error_matrices.png" width = 70>
+      </div>
         <div class = "compress">
             <a href="https://epubs.siam.org/doi/abs/10.1137/19M1288772">Moments of uniformly random multigraphs with fixed degree sequences </a> <br>
             <b>PSC</b><br>
             <i>SIAM Journal on Mathematics of Data Science</i> (2020)
         </div>
     </td>
-    <td>
-    <!-- could eventually put images here -->
-    </td>
   </tr>
   <tr>
-    <td></td>
     <td>
-        <div>
+      <div class="thumbnail">
+        <img src="/assets/img/thumbnails/configuration-hypergraphs.png" width = 70>
+      </div>
+        <div class = "compress">
             <a href="https://academic.oup.com/comnet/article-abstract/8/3/cnaa018/5879929">Configuration models of random hypergraphs</a> <br>
             <b>PSC</b><br>
             <i>Journal of Complex Networks</i> (2020)
@@ -68,9 +68,11 @@ Addressing these questions often requires tools from probability, optimization, 
     </td>
   </tr>
   <tr>
-    <td></td>
     <td>
-        <div>
+        <div class="thumbnail">
+          <img src="/assets/img/thumbnails/community.png" width = 70>
+        </div>
+        <div class="compress">
             <a href="https://link.springer.com/article/10.1007/s41109-020-0252-y">Annotated hypergraphs: models and applications</a> <br>
             <b>PSC</b> and Andrew Mellor<br>
             <i>Applied Network Science</i> (2020)
@@ -92,9 +94,11 @@ Human and animal societies are structured by persistent hierarchies, inequalitie
 
 <table style="width:100%">
   <tr>
-    <td></td>
     <td>
-        <div>
+      <div class="thumbnail">
+        <img src="/assets/img/thumbnails/math_phd_case_study_square.png" width = 70>
+      </div>
+        <div class="compress">
             <a href="https://www.pnas.org/content/118/16/e2015188118">Emergence of hierarchy in networked endorsement dynamics </a> <br>
             Mari Kawakatsu, <b>PSC</b>, Nicole Eikmeier, and Dan Larremore <br>
             <i>Proceedings of the National Academy of Sciences</i> (2021)
@@ -102,9 +106,11 @@ Human and animal societies are structured by persistent hierarchies, inequalitie
     </td>
   </tr>
   <tr>
-    <td></td>
     <td>
-        <div>
+      <div class="thumbnail">
+        <img src="/assets/img/thumbnails/avm.png" width = 70>
+      </div>
+        <div class="compress">
             <a href="https://epubs.siam.org/doi/pdf/10.1137/18M1232346?casa_token=st1ib1C3dRUAAAAA:u69ZSyBJVU-keaUQ6eO6wVKcM42DNeUReNMDWhVVT5pUDozAHYx8NnGz7iKZ4gX1gtMxGYMCucA">Local symmetry and global structure in adaptive voter models </a> <br>
             <b>PSC</b> and Peter Mucha <br>
             <i>SIAM Journal on Applied Mathematics</i> (2020)
@@ -123,9 +129,11 @@ I seek opportunities to contribute mathematical methods to the study of real-wor
 
 <table style="width:100%">
   <tr>
-    <td></td>
     <td>
-        <div>
+        <div class="thumbnail">
+          <img src="/assets/img/thumbnails/blank.png" width = 70>
+        </div>
+        <div class="compress">
             Space-based observational constraints on NO2 air pollution inequality from diesel traffic in major U.S. cities <br>
             Mary Angelique Demetillo, Colin Harkins, Brian McDonald, <b>PSC</b>, Kang Sun and Sally Pusede <br>
             <i>In review</i> (2021)
@@ -133,9 +141,11 @@ I seek opportunities to contribute mathematical methods to the study of real-wor
     </td>
   </tr>
   <tr>
-    <td></td>
     <td>
-        <div>
+        <div class="thumbnail">
+          <img src="/assets/img/thumbnails/structure-and-information.png" width = 70>
+        </div>
+        <div class="compress">
             <a href="https://www.pnas.org/content/pnas/114/44/11591.full.pdf">Structure and information in spatial segregation </a> <br>
             <b>PSC</b> <br>
             <i>Proceedings of the National Academy of Sciences</i> (2017)
@@ -143,9 +153,11 @@ I seek opportunities to contribute mathematical methods to the study of real-wor
     </td>
   </tr>
   <tr>
-    <td></td>
     <td>
-        <div>
+        <div class="thumbnail">
+          <img src="/assets/img/thumbnails/demand-and-congestion.png" width = 70>
+        </div>
+        <div class="compress">
             <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0161738">Demand and congestion in multiplex transportation networks </a> <br>
             <b>PSC</b>, Zeyad al-Awwad, Shan Jiang and Marta González <br>
             <i>PLoS One</i> (2016)
