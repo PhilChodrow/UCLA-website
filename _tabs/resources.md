@@ -6,12 +6,13 @@ order: 4
 toc: true
 ---
 
-This page collects a variety of references, data repositories, links, and books that I find useful or motivating. In all cases, the lists are highly partial, in reflection of my own experience and limitations. If you have a suggestion for an addition, please let me know! 
+This page collects a variety of references, groups, data repositories, links, and books that I find useful or motivating. In all cases, the lists are highly partial, in reflection of my own experience and limitations. If you have a suggestion for an addition, please let me know! 
 
 ## Network Science
 
 - [Lectures on Network Systems](http://motion.me.ucsb.edu/book-lns/), a free book by [Francesco Bullo](http://motion.me.ucsb.edu/) at UC Santa Barbara covering a range of important topics related to dynamial systems on networks. The development of the linear algebra toolbox for approaching network problems is clear and of high general utility.   
 - [Aaron Clauset](https://aaronclauset.github.io/) at CU Boulder maintains excellent lecture notes on [Network Analysis and Modeling](https://aaronclauset.github.io/courses/5352/) and [Biological Networks](https://aaronclauset.github.io/courses/3352/). 
+- *"The society of [Women in Network Science](https://www.networkscienceinstitute.org/wins) (WiNS) connects **women, trans and non-binary gender** network scientists from different races, socioeconomic backgrounds, and nations. The society aims to recognize the work, perspectives and expertise of its members to create bridges between academia, government, and private industry related to network science."* 
 
 ## Data Sets
 

@@ -10,10 +10,11 @@ order: 2
 
 This is a *highly curated* subset of feedback I've received from students in both official and self-designed evaluations. I've divided the feedback into broad themes. 
 
-## Course Effectiveness
+## Student Growth
 
 *This class demanded a lot from us...Overall I feel so proud of what I've been able to accomplish in this class. I feel like I've grown in my abilities to describe my ideas, communicate my coding thought process, work as a member of a group, time manage, not procrastinate, and approach problems with confidence instead of doubt. Thank you Professor Chodrow, and to all the TAs and LAs who have put so much time and love into this course! I've learned so much and I'm so excited to use it!!!* <br> - PIC16A, Winter '21
 
+*My confidence has skyrocketed since taking this class. Coming from a low income community I felt extremely behind in the STEM field when I entered UCLA, and thought that any career with coding would just be a pipedream. Once I finished...my project it made me realize that I could actually do these things, and if I work hard and continue with my coding I could do it for a living.* <br> - PIC16A, Spring '21
 
 *I can't believe I learned so much in the span of 10 weeks!! When I was interviewing for internships I could quote some of the class assignments and people were impressed :)* <br> - PIC16A, Spring '21
 
@@ -21,7 +22,9 @@ This is a *highly curated* subset of feedback I've received from students in bot
 
 *...going into this class, I was extremely worried and asking myself why I'm even trying. Thankfully, basically thanks to your doing, I'm leaving this course with a sense of pride about how much I've achieved and learned despite the voice in the back of my mind telling me I can't do it...I'm proud of the progress I've made...* <br> - PIC16A, Fall '20
 
-*This quarter I feel like my coding skills faced a sharp learning curve. Not only did I learn so much, but I also enjoyed what I was doing because I was able to understand it and felt motivated to do so. I think the structure of this class helped me really stay on top of things and not fall behind too often, which was really helpful in the overall experience.* <br> - PIC16A, Winter '21
+*I learned so much from this quarter. I feel the blogs were very helpful for me to understand the lectures and Dr. Chodrow always answers questions in a very clear way. He also makes the class super welcoming. The project is difficult but I'm really surprised that we were able to accomplish what we have. It's a unique experience.* <br> - PIC16B, Spring '21
+
+<!-- *This quarter I feel like my coding skills faced a sharp learning curve. Not only did I learn so much, but I also enjoyed what I was doing because I was able to understand it and felt motivated to do so. I think the structure of this class helped me really stay on top of things and not fall behind too often, which was really helpful in the overall experience.* <br> - PIC16A, Winter '21 -->
 
 ## Course Environment
 
@@ -37,12 +40,17 @@ This is a *highly curated* subset of feedback I've received from students in bot
 
 *The best thing about PIC 16A with regards to the class is my group! Discussion sections are one of the highlights of my week! We also have scheduled a time every week where we work together on the homework. It's so refreshing to have contact with new people in these crazy circumstances.* <br> - PIC16A, Fall '20
 
+*I think I've grown to see how valuable collaborative work is. Everyone has a unique way of working through logical problems and when these different thought processes come together, it's like they merge into one new mega thought process >:)* <br> - PIC16A, Spring '21
+
+*I think creating blog posts to do the homework assignments was wonderful! I've learned so much in this course not only through Professor Chodrow but also through my peers. Professor Chodrow facilitated a collaborative environment through peer feedbacks, which I loved.* <br> - PIC16B, Spring '21
+
+
 ## Miscellaneous
 
 *Phil is 100% the best professor I've had at UCLA and honestly probably the best teacher I've ever had period. Let him do whatever he wants at UCLA. Heck, make him the department chair. He deserves it.* 
 <br> - PIC16A, Fall '20 
 <br> 
-\[Editorial note: I'm not sure this student understood what they were wishing on me.\]
+\[Editorial note: I'm not sure this student understood what they are wishing on me.\]
 
 *I think this was the course in which I "grew up."* <br> - PIC16B, Spring '21
 
@@ -52,3 +60,4 @@ This is a *highly curated* subset of feedback I've received from students in bot
 *Very S-tier.* <br> - PIC16A, Spring '21
 
 *If I could take every math/PIC class with him, I would in a heartbeat.* <br> - PIC16A, Fall '21
+
