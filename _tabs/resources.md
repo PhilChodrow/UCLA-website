@@ -21,7 +21,7 @@ This page collects a variety of references, groups, data repositories, links, an
 
 ## Python Programming
 
-- [Lecture notes and videos](https://philchodrow.github.io/PIC16A/schedule/) from PIC16A, my course on basic Python and core data science skills. 
+- [Lecture notes and videos](https://philchodrow.github.io/PIC16A/schedule/) from PIC16A, my course on core skills in Python programming and data science. 
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) by Jake VanderPlas is an excellent, rapid overview of fundamental Python skills. It is suitable for those who have experience in several other programming languages, or for those who previously learned Python and just need a brush-up.  
 - [Lecture notes](https://philchodrow.github.io/PIC16B/schedule/) from PIC16B, my course on advanced computational and data science in Python.  
 - [The Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas is an excellent and freely-available online resource for practical data science in Python. 

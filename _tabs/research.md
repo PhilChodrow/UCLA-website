@@ -7,17 +7,14 @@ order: 3
 
 # Research
 
-My research addresses several topics in the mathematical study of complex systems. My primary interests include theory and applications of random graphs, dynamical models of social structures, and data science applications supporting equity and sustainability. 
-
-
-
+My research addresses several topics in the mathematical and statistical study of complex systems. My primary interests include foundations of network data science, dynamical models of social structures, and data science applications supporting equity and sustainability. 
 
 <!-- ![](https://www.philchodrow.com/static/img/avatar.jpg) -->
 
 
-## Random Graphs, Algorithms, and Computation
+## Foundations of Network Data Science
 
-Random graphs are probability distributions over sets of graphs. They are the foundation of the statistical study of network data, and also possess interesting mathematical properties. I study questions like: 
+How do we analyze and learn from network data? I approach this question using random graph models. Random graphs are probability distributions over sets of graphs. They are the foundation of the statistical study of network data, and also possess interesting mathematical properties. I study questions like: 
 
 - How can random graph models illuminate fundamental limitations on graph data science tasks?
 - Can we approximate important summary statistics from random graph models without sampling from them? 
@@ -134,7 +131,7 @@ I seek opportunities to contribute mathematical methods to the study of real-wor
           <img src="/assets/img/thumbnails/blank.png" width = 70>
         </div>
         <div class="compress">
-            Space-based observational constraints on NO2 air pollution inequality from diesel traffic in major U.S. cities <br>
+            Space-based observational constraints on NO₂ air pollution inequality from diesel traffic in major U.S. cities <br>
             Mary Angelique Demetillo, Colin Harkins, Brian McDonald, <b>PSC</b>, Kang Sun and Sally Pusede <br>
             <i>In review</i> (2021)
         </div>

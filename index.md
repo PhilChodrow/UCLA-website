@@ -9,14 +9,15 @@ order: 2
 
 I am a Hedrick Visiting Assistant Adjunct Professor in the Department of Mathematics at UCLA, where I am mentored by Mason Porter. My interests include network science, nonlinear dynamics, applied probability, and machine learning. In [my research](/research), I build principled tools for studying the structure and dynamics of complex, networked systems. Recently, I've been thinking about spectral properties of hypergraphs, dominance hierarchies in biosocial systems, and nonlinear opinion dynamics on graphs. 
 
-I am a passionate educator, and [teach subjects](/teaching) including data science, mathematical network science, applied probability, and computing. I am enthusiastic about  evidence-based pedagogy, project-oriented course formats, and inclusion in the classroom. I am a member of the Gold '21 Cohort of [MAA Project NeXT](https://www.maa.org/programs-and-communities/professional-development/project-next), a professional development program for teacher-scholars. 
+I am a passionate educator, and [teach subjects](/teaching) including data science, mathematical network science, applied probability, and computing. I am enthusiastic about evidence-based pedagogy, student-centered design, and inclusion in the classroom. I am a member of the Gold '21 Cohort of [MAA Project NeXT](https://www.maa.org/programs-and-communities/professional-development/project-next), a professional development program for teacher-scholars in mathematics. 
 
-I also work on data projects related to equity and social justice. Current work includes gender representation in mathematical subfields and racial disparities in criminal sentencing. I am a Partner of [QSIDE](https://qsideinstitute.org/), the Institute for the Quantitative Study of Inclusion, Diversity, and Equity. 
+I also believe deeply in the role of data science in promoting equity and social justice. Current work includes gender representation in mathematical subfields and racial disparities in criminal sentencing. I am a Partner at [QSIDE](https://qsideinstitute.org/), the Institute for the Quantitative Study of Inclusion, Diversity, and Equity. 
 
 I did my PhD at MIT's [Operations Research Center](https://www.mit.edu/~orc/) under the mentorship of [Marta González](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez) and [Patrick Jaillet](http://web.mit.edu/jaillet/www/). My research at MIT was supported by the NSF Graduate Research Fellowship. 
 
 ## News
 
+- **February, 2022**: I will be a co-organizer of the second edition of the workshop on [Graphs And More Complex Structures For Learning And Reasoning](https://sites.google.com/view/gclr2021/speakers) at AAAI. 
 - **August 2nd, 2021**: Thrilled to attend MAA Project NExT as part of the Gold '21 cohort! Also attending other sessions at MAA MathFest. 
 - **July 15th, 2021**: Invited talk on feedback loops and ranks in networks at UCLA's REU group on "Kaczmarz Methods for Large-Scale Data Analysis," led by [Jamie Haddock](https://www.math.ucla.edu/~jhaddock/). 
 - **July 7th, 2021**: "Generative hypergraph clustering: from blockmodels to modularity" with [Nate Veldt](https://people.cam.cornell.edu/lnv22/) and [Austin Benson](https://www.cs.cornell.edu/~arb/) is [now published](https://advances.sciencemag.org/content/7/28/eabh1303) in *Science Advances*.  

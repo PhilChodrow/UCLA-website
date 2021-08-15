@@ -36,7 +36,7 @@ This is a *highly curated* subset of feedback I've received from students in bot
 
 ## Learning Communities
 
-*When I first learned that we had to work in small groups twice a week I was a little upset...I was prepared for the worst. But I have to say the discussions were some of my favorite parts of the week...I could have asked for a better group. I am so grateful for these friendships I have made.* <br> - PIC16A, Winter '21
+*When I first learned that we had to work in small groups twice a week I was a little upset...I was prepared for the worst. But I have to say the discussions were some of my favorite parts of the week...I couldn't have asked for a better group. I am so grateful for these friendships I have made.* <br> - PIC16A, Winter '21
 
 *The best thing about PIC 16A with regards to the class is my group! Discussion sections are one of the highlights of my week! We also have scheduled a time every week where we work together on the homework. It's so refreshing to have contact with new people in these crazy circumstances.* <br> - PIC16A, Fall '20
 

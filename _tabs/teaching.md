@@ -7,14 +7,14 @@ toc: true
 ---
 
 
-My goal as an educator is to make mathematical reasoning and quantitative problem-solving accessible to **all** students. I consistently gather data about my teaching, and use it to assess the accessibility and relevance of my offerings. I am especially interested in inclusive teaching practices for ameliorating race and gender disparities in applied mathematics and data science. 
+My goal as an educator is to make mathematical reasoning and quantitative problem-solving accessible to **all** students. I approach this goal through actively inclusive teaching practices and evidence-based evaluation of their effectiveness. Techniques I use include flipped classrooms, project-based learning, structured group work, writing assignments, and specifications-based grading. 
 
 My students have said some [nice things](/feedback) about my teaching. 
 
 ## Current and Recent Courses
 
 
-**[PIC16A](https://philchodrow.github.io/PIC16A/)**: **Python with Applications I.** A flipped-classroom, team-based course focusing on Python basics and technical computing. Special emphasis on data science and machine learning. Also includes discussion of algorithmic bias. 
+**[PIC16A](https://philchodrow.github.io/PIC16A/)**: **Python with Applications I.** A flipped-classroom, team-based course focusing on Python basics and technical computing. Special emphasis on data science and machine learning. Includes discussion of algorithmic bias. 
 - Taught in Fall 2020, Winter 2021, Spring 2021. 
   - [Current syllabus](https://philchodrow.github.io/PIC16A/syllabus/).
   - [Sample homework](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/homework/HW6.ipynb).
@@ -32,5 +32,3 @@ My students have said some [nice things](/feedback) about my teaching.
 ### Before UCLA
 
 This page is devoted to my teaching at UCLA. For my teaching history, including assistantships at MIT and other experience, please consult my [CV](https://philchodrow.github.io/CV/cv.pdf). 
-
-
