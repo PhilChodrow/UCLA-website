@@ -52,7 +52,11 @@ Cons:
 
 #### Is academic mathematics an equitable space, a "meritocracy," or a "neutral" discipline?
 
-No! Academic mathematics is not yet an equitable community, and many parts of it replicate systemic misogyny, racism, and classism. Certain people, departments, and institutions are not safe for some folks. Due in part to my own privileged identity, I have had an overall pleasant experience in mathematics which makes me want to stay here. If you do aspire to become an academic mathematician, and especially if you benefit from intersecting privilege, then part of your responsibility is to reflect on what work you will do to make our profession a more equitable and just place. The [Mission](/mission) page expresses how I think about this responsibility, and the [Resources](/resources) page contains some links that might help you get started. 
+No. Academic mathematics is not yet an equitable community, and many parts of it replicate systemic misogyny, racism, ableism, and classism. Certain people, departments, and institutions are not safe or nurturing spaces for members of certain groups. A [recent article](https://www.scientificamerican.com/article/modern-mathematics-confronts-its-white-patriarchal-past/) in *Scientific American* highlighted the intersection of racism and misogyny in modern mathematics. 
+
+Due in part to my own privileged identity, I have had an overall pleasant experience in mathematics which makes me want to stay here. If you do aspire to become an academic mathematician, and especially if you benefit from intersecting privilege, then part of your responsibility is to reflect on what work you will do to make our profession a more equitable and just place. The [Mission](/mission) page expresses how I think about this responsibility, and the [Resources](/resources) page contains some links that might help you get started. 
+
+
 
 ## Classes
 
