@@ -65,7 +65,7 @@ In academic year '21-'22, I am teaching:
 
 - [PIC16A](https://philchodrow.github.io/PIC16A//), Fall '21
 - [PIC16B](https://philchodrow.github.io/PIC16B//), Fall '21 and Winter '22
-- MATH 168, Spring '22
+- MATH 168, Spring '22 
 
 #### Can I have a PTE override into your course? 
 Unfortunately, PTEs are not used in PIC courses, so I can't give you an override. My suggestion is to monitor the waitlist during the first two weeks of class, as spots tend to open up. All students on the waitlist in the first two weeks will be automatically enrolled. 
