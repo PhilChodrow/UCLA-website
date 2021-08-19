@@ -70,7 +70,7 @@ In academic year '21-'22, I am teaching:
 #### Can I have a PTE override into your course? 
 Unfortunately, PTEs are not used in PIC courses, so I can't give you an override. My suggestion is to monitor the waitlist during the first two weeks of class, as spots tend to open up. All students on the waitlist in the first two weeks will be automatically enrolled. 
 
-Additionally, please note that, in academic year '21-22, **all** offerings of PIC16A by professors Perlmutter and Murray will be taught on the flipped class model that I developed last year. So, if you've heard good things about that class, please know that you'll be able to have that experience with several of the PIC16A instructors. 
+Additionally, please note that, in academic year '21-22, **all** offerings of PIC16A by professors Perlmutter and Murray will be taught on the flipped class model that I developed last year. So, if you've heard good things about that class, please know that you'll be able to have that experience with several of the PIC16A instructors.  
 
 #### How long will you be at UCLA?
 I am a visiting scholar, with a contract running through Spring 2023. While there is a possibility that I will stay slightly longer than that, this isn't likely. I will not be a member of the UCLA faculty long-term. 
