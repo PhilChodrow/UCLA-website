@@ -38,7 +38,7 @@ Please remember to address all your professors respectfully and according to the
 
 #### Is it nice to be an academic mathematician?
 
-Are you considering a career as an academic mathematician? Here's my list of the pros and cons. This list is quite personal to me, and reflects my identity and priorities. Note that the pros and cons for mathematicians working in industry might look considerably different. 
+Here's my personal list of the pros and cons about being an academic mathematician. This list is quite personal to me, and reflects my identity and priorities. Note that the pros and cons for mathematicians working in industry might look considerably different. 
 
 Pros:
 - Freedom to control my own schedule. 
@@ -135,6 +135,6 @@ On occasion, students approach me with a class project that asks them to intervi
 
 #### Are you a data scientist?
 
-Sort of! I'm a mathematician and computational scientist motivated by problems involving data. My training in graduate school included coursework in statistics, optimization, and machine learning. In many of my research projects, I either develop algorithms or directly analyze data sets. Additionally, I teach data science in Python at UCLA, and supervise student data science projects. Before I went to graduate school, I worked as a data analyst at [Health Leads](https://healthleadsusa.org/), a nonprofit organization focused on integrating social services with healthcare. 
+In some ways, yes. I'm a mathematician and computational scientist motivated by problems involving data. My training in graduate school included coursework in statistics, optimization, and machine learning. In many of my research projects, I either develop algorithms or directly analyze data sets. Additionally, I teach data science in Python at UCLA, and supervise student data science projects. Before I went to graduate school, I worked as a data analyst at [Health Leads](https://healthleadsusa.org/), a nonprofit organization focused on integrating social services with healthcare. 
 
-That said, "data scientist" isn't my main professional identity, and I'm not necessarily knowledgeable about the life of a data scientist at, say, a tech company or a startup. My knowledge of how to get these jobs, and what to do once you have one, is pretty limited. 
+That said, "data scientist" isn't my main professional identity, and I'm not knowledgeable about the life of a data scientist at, say, a tech company or a startup. My knowledge of how to get these jobs, and what to do once you have one, is pretty limited. 

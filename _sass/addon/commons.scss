@@ -685,7 +685,7 @@ $sidebar-display: "sidebar-display";
 
   .nav-link {
     border-radius: 0;
-    font-size: 0.95rem;
+    font-size: 1.1rem;
     font-weight: 600;
     letter-spacing: 1px;
     display: table-cell;
@@ -699,7 +699,7 @@ $sidebar-display: "sidebar-display";
     height: $tab-height;
     &:hover {
       .nav-link {
-        color: #f8f9facf;
+        color: #bd5d53;
       }
     }
     &.active {
