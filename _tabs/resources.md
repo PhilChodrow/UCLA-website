@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: toc
 title: Resources
 icon: fas fa-hands-helping
 order: 4
-toc: true
 ---
+
+# Resources
 
 This page collects a variety of references, groups, data repositories, links, and books that I find useful or motivating. In all cases, the lists are highly partial, in reflection of my own experience and limitations. If you have a suggestion for an addition, please let me know! 
 
