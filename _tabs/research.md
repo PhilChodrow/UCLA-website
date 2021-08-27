@@ -98,7 +98,11 @@ Human and animal societies are structured by persistent hierarchies, inequalitie
         <div class="compress">
             <a href="https://www.pnas.org/content/118/16/e2015188118">Emergence of hierarchy in networked endorsement dynamics </a> <br>
             Mari Kawakatsu, <b>PSC</b>, Nicole Eikmeier, and Dan Larremore <br>
-            <i>Proceedings of the National Academy of Sciences</i> (2021)
+            <i>Proceedings of the National Academy of Sciences</i> (2021) <br>
+            <ul>
+            <li> <a href="https://www.pnas.org/content/118/21/e2106186118">Commentary</a> by Simon DeDeo and Elizabeth Hobson</li>
+            <li> <a href="https://sinews.siam.org/Details-Page/networks-dynamics-and-prestige-how-hierarchies-emerge-from-individual-choices">Explainer post</a> on SIAM News blog</li>
+            </ul>
         </div>
     </td>
   </tr>
@@ -133,7 +137,7 @@ I seek opportunities to contribute mathematical methods to the study of real-wor
         <div class="compress">
             Space-based observational constraints on NO₂ air pollution inequality from diesel traffic in major U.S. cities <br>
             Mary Angelique Demetillo, Colin Harkins, Brian McDonald, <b>PSC</b>, Kang Sun and Sally Pusede <br>
-            <i>In review</i> (2021)
+            <i>Geophysics Review Letters (Forthcoming)</i> (2021)
         </div>
     </td>
   </tr>

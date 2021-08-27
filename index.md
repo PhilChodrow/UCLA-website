@@ -17,7 +17,9 @@ I did my PhD at MIT's [Operations Research Center](https://www.mit.edu/~orc/) un
 
 ## News
 
-- **February, 2022**: I will be a co-organizer of the second edition of the workshop on [Graphs And More Complex Structures For Learning And Reasoning](https://sites.google.com/view/gclr2021/speakers) at AAAI. 
+- **August 25th, 2022**: Our article "[Networks, Dynamics, and Prestige: How Hierarchies Emerge from Individual Choices
+](https://sinews.siam.org/Details-Page/networks-dynamics-and-prestige-how-hierarchies-emerge-from-individual-choices)" is now published on the SIAM News blog! This article, joint with [Mari Kawakatsu](https://www.marikawakatsu.com/), [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/), and [Dan Larremore](https://larremorelab.github.io/), gives an accessible overview of our recent paper "[Emergence of Hierarchy in Networked Endorsement Dynamics](https://www.pnas.org/content/118/16/e2015188118.short)" at PNAS. 
+- **August, 2021**: I will be a co-organizer of the second edition of the workshop on [Graphs And More Complex Structures For Learning And Reasoning](https://sites.google.com/view/gclr2021/speakers) at AAAI in February, 2022. 
 - **August 2nd, 2021**: Thrilled to attend MAA Project NExT as part of the Gold '21 cohort! Also attending other sessions at MAA MathFest. 
 - **July 15th, 2021**: Invited talk on feedback loops and ranks in networks at UCLA's REU group on "Kaczmarz Methods for Large-Scale Data Analysis," led by [Jamie Haddock](https://www.math.ucla.edu/~jhaddock/). 
 - **July 7th, 2021**: "Generative hypergraph clustering: from blockmodels to modularity" with [Nate Veldt](https://people.cam.cornell.edu/lnv22/) and [Austin Benson](https://www.cs.cornell.edu/~arb/) is [now published](https://advances.sciencemag.org/content/7/28/eabh1303) in *Science Advances*.  
