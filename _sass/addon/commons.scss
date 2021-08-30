@@ -43,7 +43,7 @@ html[mode=dark] {
 }
 
 :root {
-  font-size: 16px;
+  font-size: 17px;
 }
 
 body {
@@ -363,7 +363,7 @@ footer {
 }
 
 .post-content {
-  font-size: 1.08rem;
+  font-size: 1rem;
   line-height: 1.4;
   margin-top: 2rem;
   overflow-wrap: break-word;
@@ -1440,10 +1440,6 @@ $sidebar-display: "sidebar-display";
       position: relative;
       right: 24.3%;
     }
-  }
-
-  .post-content {
-    font-size: 1.03rem;
   }
 
   footer > div.d-felx {
