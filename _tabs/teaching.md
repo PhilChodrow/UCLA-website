@@ -7,7 +7,7 @@ toc: true
 ---
 
 
-My goal as an educator is to make mathematical reasoning and quantitative problem-solving accessible to **all** students. I approach this goal through actively inclusive teaching practices and evidence-based evaluation of their effectiveness. Techniques I use include flipped classrooms, project-based learning, structured group work, writing assignments, and specifications-based grading. 
+My goal as an educator is to make mathematical reasoning and quantitative problem-solving accessible to **all** students. I approach this goal through actively inclusive teaching practices and evidence-based evaluation of their effectiveness. Techniques I use include flipped classrooms, project-based learning, structured group work, writing assignments, and specifications grading. 
 
 My students have said some [nice things](/feedback) about my teaching. 
 
