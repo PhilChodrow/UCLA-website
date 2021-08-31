@@ -626,7 +626,7 @@ $sidebar-display: "sidebar-display";
     &:hover {
       @include no-text-decoration;
 
-      color: #fff;
+      color: #bd5d53;
     }
   }
 
@@ -814,7 +814,7 @@ $sidebar-display: "sidebar-display";
     }
     a:hover,
     #mode-toggle-wrapper i:hover {
-      color: #fff;
+      color: #bd5d53;
     }
 
   } // .sidebar-bottom
