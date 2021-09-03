@@ -132,7 +132,7 @@ I seek opportunities to contribute mathematical methods to the study of real-wor
   <tr>
     <td>
         <div class="thumbnail">
-          <img src="/assets/img/thumbnails/NO2.png" width = 70>
+          <img src="/assets/img/thumbnails/no2.png" width = 70>
         </div>
         <div class="compress">
             <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094333"> Space-based observational constraints on NO₂ air pollution inequality from diesel traffic in major U.S. cities </a><br>
