@@ -93,7 +93,7 @@ Human and animal societies are structured by persistent hierarchies, inequalitie
   <tr>
     <td>
       <div class="thumbnail">
-        <img src="/assets/img/thumbnails/math_phd_case_study_square.png" width = 70>
+        <img src="/assets/img/thumbnails/dynamics_examples_v5.png" width = 70>
       </div>
         <div class="compress">
             <a href="https://www.pnas.org/content/118/16/e2015188118">Emergence of hierarchy in networked endorsement dynamics </a> <br>
@@ -138,6 +138,9 @@ I seek opportunities to contribute mathematical methods to the study of real-wor
             <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094333"> Space-based observational constraints on NO₂ air pollution inequality from diesel traffic in major U.S. cities </a><br>
             Mary Angelique Demetillo, Colin Harkins, Brian McDonald, <b>PSC</b>, Kang Sun and Sally Pusede <br>
             <i>Geophysics Review Letters</i> (2021)
+            <ul>
+              <li> <a href="https://cen.acs.org/environment/pollution/Satellite-data-reveal-diesel-trucking/99/i32"> Writeup </a> in <i>Chemical and Engineering News</i></li>
+            </ul>
         </div>
     </td>
   </tr>
