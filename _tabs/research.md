@@ -132,12 +132,12 @@ I seek opportunities to contribute mathematical methods to the study of real-wor
   <tr>
     <td>
         <div class="thumbnail">
-          <img src="/assets/img/thumbnails/blank.png" width = 70>
+          <img src="/assets/img/thumbnails/NO2.png" width = 70>
         </div>
         <div class="compress">
-            Space-based observational constraints on NO₂ air pollution inequality from diesel traffic in major U.S. cities <br>
+            <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094333"> Space-based observational constraints on NO₂ air pollution inequality from diesel traffic in major U.S. cities </a><br>
             Mary Angelique Demetillo, Colin Harkins, Brian McDonald, <b>PSC</b>, Kang Sun and Sally Pusede <br>
-            <i>Geophysics Review Letters (Forthcoming)</i> (2021)
+            <i>Geophysics Review Letters</i> (2021)
         </div>
     </td>
   </tr>
