@@ -7,7 +7,7 @@ order: 4
 
 
 
-**Math is a human endeavor.** It is performed by humans, and has consequences for other humans. Historically and into the present, practitioners of mathematical science are disproportionately White and male. Historically and into the present, practitioners of mathematical science have created tools used to control marginalized populations, concentrate wealth in the hands of the few, and enhance the violent power of military and police forces. 
+**Math is a human endeavor.** It is performed by humans, and has consequences for other humans. Historically and into the present, practitioners of mathematical science are disproportionately White, male, heterosexual, cisgendered, and class-privileged. Historically and into the present, practitioners of mathematical science have created tools used to control marginalized populations, concentrate wealth in the hands of the few, and enhance the violent power of military and police forces. 
 
 I aspire to a more just, peaceful, and equitable role for mathematical science.  Toward this vision, I offer the following acknowledgments and commitments. 
 
