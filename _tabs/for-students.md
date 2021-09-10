@@ -138,3 +138,14 @@ On occasion, students approach me with a class project that asks them to intervi
 In some ways, yes. I'm a mathematician and computational scientist motivated by problems involving data. My training in graduate school included coursework in statistics, optimization, and machine learning. In many of my research projects, I either develop algorithms or directly analyze data sets. Additionally, I teach data science in Python at UCLA, and supervise student data science projects. Before I went to graduate school, I worked as a data analyst at [Health Leads](https://healthleadsusa.org/), a nonprofit organization focused on integrating social services with healthcare. 
 
 That said, "data scientist" isn't my main professional identity, and I'm not knowledgeable about the life of a data scientist at, say, a tech company or a startup. My knowledge of how to get these jobs, and what to do once you have one, is pretty limited. 
+
+#### What kinds of books do you like to read? 
+
+Some of the kinds of books I like are scifi and fantasy novels; U.S. and modern world history; feminism and antiracism; and yes, the occasional math book. 
+
+Feel free to suggest something to me!
+
+Perhaps like you, the growing presence of screens in my life has detracted from my reading. I'm trying to fix that! To keep myself on track, I'm keeping a [list](/reading) of the things I've been reading lately.
+
+(In case you're wondering, I do read a lot of math, but most of it is in scholarly articles rather than books.) 
+
