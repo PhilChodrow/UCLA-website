@@ -24,6 +24,7 @@ My students have said some [nice things](/feedback) about my teaching.
 - Taught in Spring 2021
   - [Current syllabus](https://philchodrow.github.io/PIC16B/syllabus/).
   - [Project prompt](https://philchodrow.github.io/PIC16B/project/).
+  - [Welcome slides](https://docs.google.com/presentation/d/16IlDaFOV_LWGtOOuZdc8AP6H6ixeAaQM-2JWrhgujHc/edit?usp=sharing)
 - Scheduled for Fall 2021 and Winter 2022. 
 
 **MATH 168**: **Introduction to Networks** An upper division course in the mathematics of network science. To cover topics including measuring networks, random graph models, data science with graph data, and dynamical systems on networks. 
