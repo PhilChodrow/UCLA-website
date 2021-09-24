@@ -18,6 +18,7 @@ My students have said some [nice things](/feedback) about my teaching.
 - Taught in Fall 2020, Winter 2021, Spring 2021. 
   - [Current syllabus](https://philchodrow.github.io/PIC16A/syllabus/).
   - [Sample homework](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/homework/HW6.ipynb).
+  - [Welcome slides](https://docs.google.com/presentation/d/1NOGF9BlrDA6n46Jo-rHM2MMb8nfBwh1IDQKHcaOI3ZQ/edit?usp=sharing).
 - Scheduled for Fall 2021.
 
 **[PIC16B](https://philchodrow.github.io/PIC16B/)**: **Python with Applications II.** A project-based course in advanced technical computing and data science with Python. Topics include data analysis and acquisition; numerical programming; machine learning via TensorFlow; natural language processing; and network science. Assessed via specifications grading starting Fall 2021. 
