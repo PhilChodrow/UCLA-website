@@ -16,6 +16,7 @@ Here's what I've been reading recently.
 
 ### &nbsp; Nonfiction
 
+- [*Calling Bullshit*](https://bookshop.org/books/calling-bullshit-the-art-of-skepticism-in-a-data-driven-world/9780525509202) by Carl Bergstrom and Jevin West
 - [*Entitled: How Male Privilege Hurts Women*](https://bookshop.org/books/entitled-how-male-privilege-hurts-women/9781984826558) by Kate Manne
 - [*How to be an Antiracist*](https://bookshop.org/books/how-to-be-an-antiracist/9780525509288) by Ibram X. Kendi
 - [*An Indigenous People's History of the United States*](https://bookshop.org/books/an-indigenous-peoples-history-of-the-united-states/9780807057834) by Roxanne Dunbar-Ortiz
@@ -26,6 +27,8 @@ Here's what I've been reading recently.
 
 ### &nbsp; Fiction
 
+- [*A Desolation Called Peace*](https://bookshop.org/books/a-desolation-called-peace-9781250186478/9781250186478) by Arkady Martine
+- [*A Memory Called Empire*](https://bookshop.org/books/a-memory-called-empire/9781250186447) by Arkady Martine
 - [*Future Home of the Living God*](https://bookshop.org/books/future-home-of-the-living-god/9780062694065) by Louise Erdrich
 - [*The Dreamblood Duology*](https://bookshop.org/books/the-killing-moon/9780316187282) by N. K. Jemisin (reread)
 - [*The Broken Earth Trilogy*](https://bookshop.org/books/the-broken-earth-trilogy-the-fifth-season-the-obelisk-gate-the-stone-sky/9780316527194) by N. K. Jemisin (reread)
