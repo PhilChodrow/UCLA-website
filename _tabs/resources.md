@@ -18,6 +18,7 @@ This page collects a variety of references, groups, data repositories, links, an
 ## Data Sets
 
 - Tidy Tuesday is an initiative organized by the R For Data Science online learning community. Each week, they pose a different data analysis problem in which people can practice their programming and data science skills. The collection of [data sets](https://github.com/rfordatascience/tidytuesday) is particularly nice. 
+- The machine learning competition website Kaggle hosts a [large variety of data sets](https://www.kaggle.com/datasets) suitable for various data science tasks.  
 - Data sets for network science: 
     - The [Colorado Index of Complex Networks](https://icon.colorado.edu/#!/) (ICON) hosts a large variety of network data sets spanning a large variety of research fields. ICON is curated by the [group of Aaron Clauset](https://aaronclauset.github.io) at CU Boulder. 
     - The [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/) (SNAP) hosts a wide range of network data sets. SNAP is curated by Jure Leskovec and Andrej Krevl at Stanford University. 
