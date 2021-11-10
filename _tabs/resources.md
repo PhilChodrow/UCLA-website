@@ -29,6 +29,7 @@ This page collects a variety of references, groups, data repositories, links, an
 
 - *"The society of [Women in Network Science](https://www.networkscienceinstitute.org/wins) (WiNS) connects **women, trans and non-binary gender** network scientists from different races, socioeconomic backgrounds, and nations. The society aims to recognize the work, perspectives and expertise of its members to create bridges between academia, government, and private industry related to network science."* 
 - I am a Partner at [QSIDE](https://qsideinstitute.org/), the Institute for the Quantitative Study of Inclusion, Diversity, and Equity. QSIDE has a number of ongoing projects and welcomes collaborators. 
+- QSIDE recently released their [Data4Justice Curriculum](https://qsideinstitute.org/qside-data4justice-curriculum-outline/), which contains sample lesson plans, code, readings, and data sets. 
 - The [Just Mathematics Collective](https://www.justmathematicscollective.net/) is an international collective of mathematicians whose goal is to "to shift the global mathematics community towards justice, via genuine anti-racism, anti-militarism, and solidarity with the Global South."
 
 ## Python Programming

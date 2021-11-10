@@ -97,7 +97,7 @@ If you have completed a course with me or are currently enrolled, you are welcom
 
 Please keep in mind that I can write stronger letters for students whom I see more frequently, such as in lecture or office hours. If you’d like a letter, talking to me in these contexts, or scheduling another meeting time, is highly recommended.
 
-To request a letter, send me an email! Your email should clearly indicate when you need the letter, what it is for, why the opportunity interests you, and why I am the right person to write in support of your application. Please include clear instructions for submitting the letter once it’s written. If you will need me to submit my letter to multiple programs, please let me know roughly how many you expect to need. If possible, please include some sort of resume/CV — it doesn’t have to be official — detailing your past experiences relevant to the application. Please give me at least one month of advance notice when possible.
+To request a letter, fill out [this request form](https://forms.gle/tL79wtFrfHC5Vspw7).! Please give me at least one month of advance notice when possible.
 
 #### I want to learn more about the intersection of math, data science, and social justice. Where do I start? 
 That's a great question, Imaginary Student! Click over to the [Resources](/resources) page on the left for some of my favorite organizations and books related to this topic. 
