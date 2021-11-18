@@ -7,7 +7,7 @@ order: 3
 
 # Research
 
-My research addresses several topics in the mathematical and statistical study of complex systems. My primary interests include foundations of network data science, dynamical models of social structures, and data science applications supporting equity and sustainability. 
+My research addresses computational, mathematical, and statistical problems in the study of complex systems. My primary interests include foundations of network data science, dynamical models of social structures, and data science applications supporting equity and sustainability. 
 
 <!-- ![](https://www.philchodrow.com/static/img/avatar.jpg) -->
 
