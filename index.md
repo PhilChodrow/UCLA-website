@@ -19,7 +19,7 @@ I did my PhD at MIT's [Operations Research Center](https://www.mit.edu/~orc/) un
 
 - **February, 2022**: I will be a co-organizer of the second edition of the workshop on [Graphs And More Complex Structures For Learning And Reasoning](https://sites.google.com/view/gclr2021/speakers) at AAAI in February, 2022. 
 - **January, 2022**: There will be a session at Joint Mathematics Meetings on "Projects Across the Mathematics Curriculum"! I am organizing it together with [Bradley Burdick](https://sites.google.com/view/bradleylewisburdick) (Hanover College). 
-- **December 8th, 2021**: Invited talk at the 2021 Winter Canadian Mathematical Society (CMS) Meeting in a special session on "Graph Theory and its Applications." 
+- **December 5th, 2021**: Invited talk at the 2021 Winter Canadian Mathematical Society (CMS) Meeting in a special session on "Graph Theory and its Applications." 
 - **December 2nd, 2021**: Invited talk at the UCLA Undergraduate Mathematics Student Association on eigenvector methods for community detection in hypergraphs. Slides [here](http://www.philchodrow.com/talks/hypergraph-spectral/umsa#1).
 - **November 18th, 2021**: Invited colloquium at Grinnell College on generative approaches for hypergraph clustering. Slides [here](http://www.philchodrow.com/talks/grinnell-2021).
 - **September 20th, 2021**: Invited seminar at the Claremont Center for the Mathematical Sciences on "Eigenvector Methods for Community Detection in Hypergraphs." I'll be presenting some ongoing work with [Jamie Haddock](https://www.math.ucla.edu/~jhaddock/) (Mathematics, Harvey Mudd) and [Nicole Eikmeier](https://eikmeier.sites.grinnell.edu/) (Computer Science, Grinnell). Slides [here](http://www.philchodrow.com/talks/hypergraph-spectral/#1).
