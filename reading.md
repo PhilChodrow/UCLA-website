@@ -7,16 +7,25 @@ order: 2
 
 # What I'm Reading
 
-One of my personal goals is to read more. Some kinds of books I like are scifi and fantasy novels; U.S. and modern world history; feminism and antiracism; and yes, the occasional math book. 
+One of my personal goals is to read more. Some kinds of books I like to read are scifi and fantasy novels; U.S. and modern world history; feminism and antiracism; and, yes, the occasional math book. 
 
 
 Here's what I've been reading recently. 
+
+## Current 
+
+- [*The 1619 Project: A New Origin Story*](https://bookshop.org/books/the-1619-project-a-new-origin-story/9780593230572) edited by Nikole Hannah-Jones
+- [*A People's History of Computing in the United States*](https://bookshop.org/books/a-people-s-history-of-computing-in-the-united-states/9780674970977) by Joy Lisi Rankin
+- [*Little Fires Everywhere*](https://bookshop.org/books/little-fires-everywhere/9780735224315) by Celeste Ng
+- [*Fairness and Machine Learning: Limitations and Opportunities*](https://fairmlbook.org) by Solon Barocas, Moritz Hardt, and Arvind Narayanan
+
 
 ## 2021
 
 ### &nbsp; Nonfiction
 
 - [*Calling Bullshit*](https://bookshop.org/books/calling-bullshit-the-art-of-skepticism-in-a-data-driven-world/9780525509202) by Carl Bergstrom and Jevin West
+- [*Invisible Women*](https://bookshop.org/books/invisible-women-data-bias-in-a-world-designed-for-men/9781419735219) by Caroline Criado Perez
 - [*Entitled: How Male Privilege Hurts Women*](https://bookshop.org/books/entitled-how-male-privilege-hurts-women/9781984826558) by Kate Manne
 - [*How to be an Antiracist*](https://bookshop.org/books/how-to-be-an-antiracist/9780525509288) by Ibram X. Kendi
 - [*An Indigenous People's History of the United States*](https://bookshop.org/books/an-indigenous-peoples-history-of-the-united-states/9780807057834) by Roxanne Dunbar-Ortiz
@@ -27,9 +36,12 @@ Here's what I've been reading recently.
 
 ### &nbsp; Fiction
 
+- [*The Book of Form and Emptiness*](https://bookshop.org/books/the-book-of-form-and-emptiness/9780399563645) by Ruth Ozeki
+- [*Wild Seed*](https://bookshop.org/books/wild-seed/9781538751480) by Octavia Butler
 - [*A Desolation Called Peace*](https://bookshop.org/books/a-desolation-called-peace-9781250186478/9781250186478) by Arkady Martine
 - [*A Memory Called Empire*](https://bookshop.org/books/a-memory-called-empire/9781250186447) by Arkady Martine
 - [*Future Home of the Living God*](https://bookshop.org/books/future-home-of-the-living-god/9780062694065) by Louise Erdrich
+- [*Paradise*](https://bookshop.org/books/paradise-9780804169882/9780804169882) by Toni Morrison
 - [*The Dreamblood Duology*](https://bookshop.org/books/the-killing-moon/9780316187282) by N. K. Jemisin (reread)
 - [*The Broken Earth Trilogy*](https://bookshop.org/books/the-broken-earth-trilogy-the-fifth-season-the-obelisk-gate-the-stone-sky/9780316527194) by N. K. Jemisin (reread)
 - [*The Inheritance Trilogy*](https://bookshop.org/books/the-inheritance-trilogy/9780316334006) by N. K. Jemisin (reread)
@@ -47,7 +59,7 @@ Here's what I've been reading recently.
 - [*Weapons of Math Destruction*](https://bookshop.org/books/weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy/9780553418835) by Cathy O'Neil
 - [*Washington: A Life*](https://bookshop.org/books/washington-a-life-9780143119968/9780143119968) by Ron Chernow
 - [*So You Want To Talk About Race*](https://bookshop.org/books/so-you-want-to-talk-about-race/9781580058827) by Ijoema Oluo
-- [*The Making of the Atomic Bomb*](https://bookshop.org/books/the-making-of-the-atomic-bomb-9781451677614/9781451677614) by Richard Rhodes
+- [*The Making of the Atomic Bomb*](https://bookshop.org/books/the-making-of-the-atomic-bomb-9781451677614/9781451677614) by Richard Rhodes (reread)
 - [*Thinking, Fast and Slow*](https://bookshop.org/books/thinking-fast-and-slow/9780374533557) by Daniel Kahneman
 
 ### &nbsp; Fiction
