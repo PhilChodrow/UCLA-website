@@ -16,7 +16,6 @@ Here's what I've been reading recently.
 
 - [*The 1619 Project: A New Origin Story*](https://bookshop.org/books/the-1619-project-a-new-origin-story/9780593230572) edited by Nikole Hannah-Jones
 - [*A People's History of Computing in the United States*](https://bookshop.org/books/a-people-s-history-of-computing-in-the-united-states/9780674970977) by Joy Lisi Rankin
-- [*Little Fires Everywhere*](https://bookshop.org/books/little-fires-everywhere/9780735224315) by Celeste Ng
 - [*Fairness and Machine Learning: Limitations and Opportunities*](https://fairmlbook.org) by Solon Barocas, Moritz Hardt, and Arvind Narayanan
 
 
@@ -36,6 +35,7 @@ Here's what I've been reading recently.
 
 ### &nbsp; Fiction
 
+- [*Little Fires Everywhere*](https://bookshop.org/books/little-fires-everywhere/9780735224315) by Celeste Ng
 - [*The Book of Form and Emptiness*](https://bookshop.org/books/the-book-of-form-and-emptiness/9780399563645) by Ruth Ozeki
 - [*Wild Seed*](https://bookshop.org/books/wild-seed/9781538751480) by Octavia Butler
 - [*A Desolation Called Peace*](https://bookshop.org/books/a-desolation-called-peace-9781250186478/9781250186478) by Arkady Martine
