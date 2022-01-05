@@ -15,16 +15,14 @@ My students have said some [nice things](/feedback) about my teaching.
 
 
 **[PIC16A](https://philchodrow.github.io/PIC16A/)**: **Python with Applications I.** A flipped-classroom, team-based course focusing on Python basics and technical computing. Special emphasis on data science and machine learning. Includes discussion of algorithmic bias.
-- Taught in Fall 2020, Winter 2021, Spring 2021. 
+- Taught in Fall 2020, Winter 2021, Spring 2021, and Fall 2021. 
   - [Current syllabus](https://philchodrow.github.io/PIC16A/syllabus/).
   - [Sample homework](https://nbviewer.jupyter.org/github/PhilChodrow/PIC16A/blob/master/homework/HW6.ipynb).
-- Currently teaching, Fall 2021.
 
 **[PIC16B](https://philchodrow.github.io/PIC16B/)**: **Python with Applications II.** A project-based course in advanced technical computing and data science with Python. Topics include data analysis and acquisition; numerical programming; machine learning via TensorFlow; natural language processing; and network science. Assessed via specifications grading starting Fall 2021. 
-- Taught in Spring 2021
+- Taught in Spring 2021, Fall 2021, and Winter 2021.
   - [Current syllabus](https://philchodrow.github.io/PIC16B/syllabus/).
   - [Project prompt](https://philchodrow.github.io/PIC16B/project/).
-- Currently teaching, Fall 2021. Scheduled for Winter 2022. 
 
 **MATH 168**: **Introduction to Networks** An upper division course in the mathematics of network science. To cover topics including measuring networks, random graph models, data science with graph data, and dynamical systems on networks.
 - Scheduled for Spring, 2022. 

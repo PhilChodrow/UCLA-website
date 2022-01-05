@@ -76,7 +76,7 @@ I am a visiting scholar, with a contract running through Spring 2023. While ther
 
 #### Where will you go? 
 
-Long-term, I hope to join the faculty of a primarily-undergraduate research institution, such as a liberal arts college. 
+Long-term, I hope to join the faculty of a primarily-undergraduate institution, such as a liberal arts college. 
 
 ## Research
 

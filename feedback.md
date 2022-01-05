@@ -24,6 +24,8 @@ This is a *highly curated* subset of feedback I've received from students in bot
 
 *I learned so much from this quarter. I feel the blogs were very helpful for me to understand the lectures and Dr. Chodrow always answers questions in a very clear way. He also makes the class super welcoming. The project is difficult but I'm really surprised that we were able to accomplish what we have. It's a unique experience.* <br> - PIC16B, Spring '21
 
+*This class was fast-paced, but not unmangeable--it did challenge me, but in a good way.* <br> - PIC16B, Fall '21
+
 <!-- *This quarter I feel like my coding skills faced a sharp learning curve. Not only did I learn so much, but I also enjoyed what I was doing because I was able to understand it and felt motivated to do so. I think the structure of this class helped me really stay on top of things and not fall behind too often, which was really helpful in the overall experience.* <br> - PIC16A, Winter '21 -->
 
 ## Course Environment
@@ -34,6 +36,9 @@ This is a *highly curated* subset of feedback I've received from students in bot
 
 *I just want to say that both the TA and professor did an amazing job with approaching the students and making them feel comfortable in our learning environment. It made a difficult and complex class a lot less stressful.* <br> - PIC16A, Winter '21
 
+
+*His instruction and the way he has set up the class clearly demonstrates his dedication to teaching. He genuinely cares about his students and is not only very approachable but also he has given me encouragement and inspired me in my learning...To me, he represents the gold standard of what a professor should strive to be.* <br> - PIC16B, Fall '21
+
 ## Learning Communities
 
 *When I first learned that we had to work in small groups twice a week I was a little upset...I was prepared for the worst. But I have to say the discussions were some of my favorite parts of the week...I couldn't have asked for a better group. I am so grateful for these friendships I have made.* <br> - PIC16A, Winter '21
@@ -42,7 +47,19 @@ This is a *highly curated* subset of feedback I've received from students in bot
 
 *I think I've grown to see how valuable collaborative work is. Everyone has a unique way of working through logical problems and when these different thought processes come together, it's like they merge into one new mega thought process >:)* <br> - PIC16A, Spring '21
 
+*Discussion activities were challenging but great; my group members and I, who aren't very vocal, often physically cheered when something ran successfully.* <br> - PIC16A, Spring '21
+
+*I have definitely improved in my ability to work collaboratively during the duration of this quarter. In discussion, I learned to speak up and provide my opinions on certain problems we were doing even when I thought I was the least qualified person in my group to provide an input. I also learned how to truly **listen** to their inputs on how and why to solve a certain problem.* <br> - PIC16A, Fall '21
+
 *I think creating blog posts to do the homework assignments was wonderful! I've learned so much in this course not only through Professor Chodrow but also through my peers. Professor Chodrow facilitated a collaborative environment through peer feedbacks, which I loved.* <br> - PIC16B, Spring '21
+
+*The group project was a great way for me to make new friends and work with other students.* <br> - PIC16B, Fall '21
+
+## Mission
+
+*I really liked that we not only learned how to code, but also about algorithmic bias and the "darker" side of the coding/data science world that is not always equitable. He truly wants us to use our skills as a force for good and personal development.* <br> - PIC16A, Fall '21
+
+*While I am not sure exactly where I am going to end up career wise, being cognizant of the flawed relationship between algorithms and race/systemic biases will be important to my life no matter what...Right now I am able to grapple with the ideas of all these forms of bias, and I hope to notice them and do my part in dismantling them in the future.* - PIC16A, Winter '21
 
 
 ## Miscellaneous
@@ -50,7 +67,7 @@ This is a *highly curated* subset of feedback I've received from students in bot
 *Phil is 100% the best professor I've had at UCLA and honestly probably the best teacher I've ever had period. Let him do whatever he wants at UCLA. Heck, make him the department chair. He deserves it.* 
 <br> - PIC16A, Fall '20 
 <br> 
-\[Editorial note: I'm not sure this student understood what they are wishing on me.\]
+\[Editorial note: I'm not sure this student understood what they were wishing on me.\]
 
 *I think this was the course in which I "grew up."* <br> - PIC16B, Spring '21
 
