@@ -17,6 +17,7 @@ Here's what I've been reading recently.
 - [*A People's History of Computing in the United States*](https://bookshop.org/books/a-people-s-history-of-computing-in-the-united-states/9780674970977) by Joy Lisi Rankin
 - [*Fairness and Machine Learning: Limitations and Opportunities*](https://fairmlbook.org) by Solon Barocas, Moritz Hardt, and Arvind Narayanan
 - [*Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution*](https://bookshop.org/books/hero-of-two-worlds-the-marquis-de-lafayette-in-the-age-of-revolution-9781549193071/9781541730335) by Mike Duncan
+
 ## 2022
 
 ### &nbsp; Nonfiction
