@@ -15,6 +15,8 @@ I'm Phil Chodrow, a visiting assistant professor in the Math Department at UCLA.
 
 I love applied math, data science, Star Trek,  penguins, cooking, tea, Studio Ghibli movies, traditional martial arts, and effective pedagogy. 
 
+My pronouns are *he/him/his*. 
+
 #### How should I address you? 
 
 If you're not sure, please call me "Professor Chodrow." I usually invite  Learning Assistants and student research collaborators to address me as "Phil." 
@@ -81,7 +83,7 @@ Long-term, I hope to join the faculty of a primarily-undergraduate institution, 
 ## Research
 
 #### Can I do research with you?
-I'd be delighted to chat with you to learn more about what you're interested in and what opportunities may exist for you to pursue those interests. That said, my ability to directly take on research students is  *very limited.* This reflects my status as a visiting scholar without my own funding. Depending on your interests, there *may* be possibilities. Please don't hesitate to ask. Because I am not usually able to offer funding to support student research, the easiest way to work with me is to enroll in a contract course (MATH 197) during the school year. 
+I'd be delighted to chat with you to learn more about what you're interested in and what opportunities may exist for you to pursue those interests. That said, my ability to directly take on research students is *very limited.* This reflects my status as a visiting scholar without my own funding. Depending on your interests, there *may* be possibilities. Please don't hesitate to ask. Because I am not usually able to offer funding to support student research, the easiest way to work with me is to enroll in a contract course (MATH 199) during the school year. 
 
 Generally speaking, to perform theoretical research with me, you should have background from either MATH 168 (network science) or MATH 156 (machine learning). However, I evaluate this on a case-by-case basis. I also sometimes accept students for data science projects. Usually, the student must propose the project to me, although I sometimes have project prompts I can offer. It is usually necessary for data science students to have programming skills at the level of PIC16B or equivalent. Background in mathematics or statistics is also desirable. 
 
