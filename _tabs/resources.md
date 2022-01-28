@@ -12,7 +12,8 @@ This page collects a variety of references, groups, data repositories, links, an
 ## Math + Network Theory
 
 - [*Introduction to Probability for Data Science*](https://probability4datascience.com/?source=techstories.org), a free book by [Stanley Chan](https://engineering.purdue.edu/ChanGroup/stanleychan.html) at Purdue covering some of the elementary theory of probability as it relates to statistics and machine learning. 
-- [*High-Dimensional Probability*](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf), a free book by [Roman Vershynin](https://www.math.uci.edu/~rvershyn/) at UC Irvine covering a range of topics on the probabilistic foundations of modern, high-dimensional statistics at an advanced level. 
+- [*High-Dimensional Probability*](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf), sa free book by [Roman Vershynin](https://www.math.uci.edu/~rvershyn/) at UC Irvine covering a range of topics on the probabilistic foundations of modern, high-dimensional statistics at an advanced level. 
+- [*Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning*](https://www.cis.upenn.edu/~jean/math-deep.pdf) by [Jean Gallier](https://www.cis.upenn.edu/~jean/home.html) and Jocelyn Quaintance is a monumental, free online book covering a wide range of mathematical background useful in machine learning and data science. 
 - [*Lectures on Network Systems*](http://motion.me.ucsb.edu/book-lns/), a free book by [Francesco Bullo](http://motion.me.ucsb.edu/) at UC Santa Barbara covering a range of important topics related to dynamical systems on networks. The development of the linear algebra toolbox for approaching network problems is clear and of high general utility.   
 - [Aaron Clauset](https://aaronclauset.github.io/) at CU Boulder maintains excellent lecture notes on [Network Analysis and Modeling](https://aaronclauset.github.io/courses/5352/) and [Biological Networks](https://aaronclauset.github.io/courses/3352/). 
 
@@ -39,6 +40,10 @@ This page collects a variety of references, groups, data repositories, links, an
 - [*A Whirlwind Tour of Python*](https://jakevdp.github.io/WhirlwindTourOfPython/) by Jake VanderPlas is an excellent, rapid overview of fundamental Python skills. It is suitable for those who have experience in several other programming languages, or for those who previously learned Python and just need a brush-up.  
 - [Lecture notes](https://philchodrow.github.io/PIC16B/schedule/) from PIC16B, my course on advanced computational and data science in Python.  
 - [*The Python Data Science Handbook*](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas is an excellent and freely-available online resource for practical data science in Python. 
+
+## Other Data Science Technical Resources 
+
+- Dirk Eddelbuettel (University of Illinois) hosts a [website](https://stat447.com) with a wide array of resources for his course Data Science Programming Methods.
 
 ## Texts on Math, Data Science, Technology, and Social Justice
 
