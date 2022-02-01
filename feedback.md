@@ -59,7 +59,7 @@ This is a *highly curated* subset of feedback I've received from students in bot
 
 *I really liked that we not only learned how to code, but also about algorithmic bias and the "darker" side of the coding/data science world that is not always equitable. He truly wants us to use our skills as a force for good and personal development.* <br> - PIC16A, Fall '21
 
-*While I am not sure exactly where I am going to end up career wise, being cognizant of the flawed relationship between algorithms and race/systemic biases will be important to my life no matter what...Right now I am able to grapple with the ideas of all these forms of bias, and I hope to notice them and do my part in dismantling them in the future.* - PIC16A, Winter '21
+*While I am not sure exactly where I am going to end up career wise, being cognizant of the flawed relationship between algorithms and race/systemic biases will be important to my life no matter what...Right now I am able to grapple with the ideas of all these forms of bias, and I hope to notice them and do my part in dismantling them in the future.* <br> - PIC16A, Winter '21
 
 
 ## Miscellaneous
