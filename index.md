@@ -7,7 +7,9 @@ order: 2
 
 # About
 
-I am a Hedrick Visiting Assistant Adjunct Professor in the Department of Mathematics at UCLA, where I am mentored by Mason Porter. My interests include network science, nonlinear dynamics, applied probability, and machine learning. In [my research](/research), I build principled tools for studying the structure and dynamics of complex, networked systems. Recently, I've been thinking about spectral properties of hypergraphs, dominance hierarchies in biosocial systems, and nonlinear opinion dynamics on graphs. 
+**I am moving!** I'll be joining the [Department of Computer Science](https://www.middlebury.edu/academics/cs) at [Middlebury College](https://www.middlebury.edu/#story645114) starting next fall. 
+
+I am currently a Hedrick Visiting Assistant Adjunct Professor in the Department of Mathematics at UCLA, where I am mentored by Mason Porter. My interests include network science, nonlinear dynamics, applied probability, and machine learning. In [my research](/research), I build principled tools for studying the structure and dynamics of complex, networked systems. Recently, I've been thinking about spectral properties of hypergraphs, dominance hierarchies in biosocial systems, and nonlinear opinion dynamics on graphs. 
 
 I am a passionate educator, enthusiastic about evidence-based pedagogy, student-centered design, and inclusion in the classroom. I [teach subjects](/teaching) including data science, mathematical network science, applied probability, and computing.  I am a member of the Gold '21 Cohort of [MAA Project NeXT](https://www.maa.org/programs-and-communities/professional-development/project-next), a professional development program for teacher-scholars in mathematics. 
 
@@ -17,6 +19,7 @@ I did my PhD at MIT's [Operations Research Center](https://www.mit.edu/~orc/) un
 
 ## News
 
+- **July, 2022**: I will join the [Department of Computer Science](https://www.middlebury.edu/academics/cs) at [Middlebury College](https://www.middlebury.edu/#story645114) as a tenure-track assistant professor! 
 - **June-July, 2022**: I am an invited Fellow at the upcoming [Social Justice and Data Science Summer Research Program](https://icerm.brown.edu/programs/ep-22-dssj/) at ICERM. Looking forward to learning, making friends, and doing good work. 
 - **April, 2022**: "Projects Across the Mathematics Curriculum" will be a freestanding online workshop as part of MAA Project NExT. I am organizing it together with [Bradley Burdick](https://sites.google.com/view/bradleylewisburdick) (Hanover College). 
 - **March 19th, 2022**: Invited talk on "Smoothly Nonlinear Opinion Dynamics" at the AMS Eastern Sectional Meeting in a Special Session on Structured Populations. Excited to share this joint work with [Heather Zinn Brooks](https://math.hmc.edu/hzinnbrooks/) and [Mason Porter](https://www.math.ucla.edu/~mason/)! 
